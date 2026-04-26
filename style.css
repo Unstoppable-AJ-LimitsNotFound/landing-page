@@ -125,7 +125,7 @@ h2 {
 
 .quote-box {
     background-color: #E5E7EB;
-    padding: 150px 220px;
+    padding: 125px 220px;
 }
 
 .quote {
@@ -138,4 +138,43 @@ h2 {
     text-align: right;
     font-weight: 900;
     font-size: 24px;
+}
+
+.action {
+    padding: 100px 125px;
+}
+
+.action-box {
+    display: flex;
+    flex: 1;
+    background-color: #3882f6;
+    padding: 50px 110px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.action-left h3{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.action-left p {
+    color: #E5E7EB;
+}
+
+.sign-up {
+    border: 2px solid #F9FAF8;
+    padding: 5px 10px;
+    border-radius: 7px;
+}
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    font-size: 18px;
 }
