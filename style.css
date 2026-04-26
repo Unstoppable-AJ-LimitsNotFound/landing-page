@@ -122,3 +122,20 @@ h2 {
     border: 4px solid #3882f6;
     border-radius: 15px;
 }
+
+.quote-box {
+    background-color: #E5E7EB;
+    padding: 150px 220px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #27303E;
+    font-weight: 300;
+}
+
+.quote-box p {
+    text-align: right;
+    font-weight: 900;
+    font-size: 24px;
+}
